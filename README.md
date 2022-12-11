@@ -11,6 +11,16 @@ This is a simple bankist app I just made after learning some JavaScript from Jon
 - Flexbox
 - Grid
 
+## Test Username and PIN
+Username: js <br>
+Password: 1111 <br>
+
+username: am <br>
+password: 2222 <br>
+
+username: jd <br>
+password: 3333 <br>
+
 ## My Social Media
 
 - LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
