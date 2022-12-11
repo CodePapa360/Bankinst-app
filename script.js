@@ -7,30 +7,10 @@
 // Data
 // DIFFERENT DATA! Contains movement dates, currency and locale
 const account1 = {
-  owner: "Alamin Mt",
-  movements: [2500, 400, -260, 830, -4210, 2200, 4600, -70],
-  interestRate: 1.8,
-  pin: 1111,
-
-  movementsDates: [
-    "2019-11-03T13:15:33.035Z",
-    "2019-11-25T09:48:16.867Z",
-    "2019-12-16T06:04:23.907Z",
-    "2020-01-12T14:18:46.235Z",
-    "2020-02-25T16:33:06.386Z",
-    "2020-04-11T14:43:26.374Z",
-    "2020-06-15T18:49:59.371Z",
-    "2020-07-30T12:01:20.894Z",
-  ],
-  currency: "BDT",
-  locale: "en-US",
-};
-
-const account2 = {
   owner: "Jonas Schmedtmann",
   movements: [200, 455.23, -306.5, 25000, -642.21, -133.9, 79.97, 1300],
   interestRate: 1.2, // %
-  pin: 2222,
+  pin: 1111,
 
   movementsDates: [
     "2019-11-18T21:31:17.178Z",
@@ -44,6 +24,26 @@ const account2 = {
   ],
   currency: "EUR",
   locale: "pt-PT", // de-DE
+};
+
+const account2 = {
+  owner: "Alamin Mt",
+  movements: [2500, 400, -260, 830, -4210, 2200, 4600, -70],
+  interestRate: 1.8,
+  pin: 2222,
+
+  movementsDates: [
+    "2019-11-03T13:15:33.035Z",
+    "2019-11-25T09:48:16.867Z",
+    "2019-12-16T06:04:23.907Z",
+    "2020-01-12T14:18:46.235Z",
+    "2020-02-25T16:33:06.386Z",
+    "2020-04-11T14:43:26.374Z",
+    "2020-06-15T18:49:59.371Z",
+    "2020-07-30T12:01:20.894Z",
+  ],
+  currency: "BDT",
+  locale: "en-US",
 };
 
 const account3 = {
