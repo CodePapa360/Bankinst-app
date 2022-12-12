@@ -13,13 +13,13 @@ This is a simple bankist app I just made after learning some JavaScript from Jon
 
 ## Test Username and PIN
 Username: js<br>
-Password: 1111<br>
+PIN: 1111<br>
 
 username: am<br>
-password: 2222<br>
+PIN: 2222<br>
 
 username: jd<br>
-password: 3333<br>
+PIN: 3333<br>
 
 ## My Social Media
 
